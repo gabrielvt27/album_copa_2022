@@ -10,7 +10,7 @@ class AppWidget extends StatelessWidget {
     Modular.setInitialRoute('/login');
 
     return MaterialApp.router(
-      title: 'Flutter Demo',
+      title: 'Álbum Copa 2022',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         textTheme: GoogleFonts.openSansTextTheme(),

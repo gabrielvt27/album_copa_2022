@@ -2,7 +2,7 @@
     package="com.example.album2022">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="album2022"
+        android:label="Álbum Copa 2022"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
